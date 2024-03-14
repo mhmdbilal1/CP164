@@ -1,0 +1,81 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Muhammad Bilal
+ID:      169047247
+Email:   bila7247@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+1
+2
+3
+4
+5
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+[1, 2, 3, 4, 5]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Is empty? True
+Inserting elements into the queue:
+Is empty? False
+Queue length: 5
+Peek: 1
+After insert. Is empty? False
+Queue length: 6
+Peek: 1
+
+Removing elements from the queue:
+Removed element: 1
+After remove. Is empty? False
+Queue length: 5
+Peek: 2
+Is empty? True
+Target array: [2, 3, 4, 5, 'NewElement']
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+1
+2
+3
+4
+5
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+[1, 2, 3, 4, 5]
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Calories: 12240
+
+Peek: Name: Vegetable Alicha
+Origin: Ethiopian
+Vegetarian: True
+Calories: 138
+
+Removed value: Name: Vegetable Alicha
+Origin: Ethiopian
+Vegetarian: True
+Calories: 138
+
+Peek: Name: Vegetables with Cashew Nuts
+Origin: Chinese
+Vegetarian: True
+Calories: 143
+
+Removed value: Name: Vegetables with Cashew Nuts
+Origin: Chinese
+Vegetarian: True
+Calories: 143
+
+Is empty? True
+
+-------------------------------------------------------
