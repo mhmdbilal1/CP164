@@ -1,0 +1,154 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Muhammad Bilal
+ID:      169047247
+Email:   bila7247@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+--__eq__--
+BST 1 contents: 
+11
+24
+13
+67
+25
+73
+BST 2 contents: 
+12
+1
+36
+24
+54
+ 
+Are both BSTs equal?  False
+ 
+--is_balanced--
+Is BST balanced?  False
+ 
+--is_valid--
+Is BST valid?  True
+ 
+--min--
+Min value in BST:  11
+ 
+--leaf_count--
+Number of leaves in BST:  3
+ 
+--one_child_count--
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Inserting A ... 0 comparisons.
+Inserting B ... 2 comparisons.
+Inserting C ... 4 comparisons.
+Inserting D ... 6 comparisons.
+Inserting E ... 8 comparisons.
+Inserting F ... 10 comparisons.
+Inserting G ... 12 comparisons.
+Inserting H ... 14 comparisons.
+Inserting I ... 16 comparisons.
+Inserting J ... 18 comparisons.
+Inserting K ... 20 comparisons.
+Inserting L ... 22 comparisons.
+Inserting M ... 24 comparisons.
+Inserting N ... 26 comparisons.
+Inserting O ... 28 comparisons.
+Inserting P ... 30 comparisons.
+Inserting Q ... 32 comparisons.
+Inserting R ... 34 comparisons.
+Inserting S ... 36 comparisons.
+Inserting T ... 38 comparisons.
+Inserting U ... 40 comparisons.
+Inserting V ... 42 comparisons.
+Inserting W ... 44 comparisons.
+Inserting X ... 46 comparisons.
+Inserting Y ... 48 comparisons.
+Inserting Z ... 50 comparisons.
+Inserting M ... 0 comparisons.
+Inserting F ... 1 comparisons.
+Inserting T ... 2 comparisons.
+Inserting C ... 2 comparisons.
+Inserting J ... 3 comparisons.
+Inserting P ... 3 comparisons.
+Inserting W ... 4 comparisons.
+Inserting A ... 3 comparisons.
+Inserting D ... 4 comparisons.
+Inserting H ... 4 comparisons.
+Inserting K ... 5 comparisons.
+Inserting N ... 4 comparisons.
+Inserting R ... 5 comparisons.
+Inserting U ... 5 comparisons.
+Inserting Y ... 6 comparisons.
+Inserting B ... 5 comparisons.
+Inserting E ... 6 comparisons.
+Inserting I ... 6 comparisons.
+Inserting G ... 5 comparisons.
+Inserting L ... 7 comparisons.
+Inserting O ... 6 comparisons.
+Inserting Q ... 6 comparisons.
+Inserting S ... 7 comparisons.
+Inserting V ... 7 comparisons.
+Inserting X ... 7 comparisons.
+Inserting Z ... 8 comparisons.
+Inserting E ... 0 comparisons.
+Inserting T ... 2 comparisons.
+Inserting A ... 1 comparisons.
+Inserting O ... 3 comparisons.
+Inserting I ... 4 comparisons.
+Inserting N ... 6 comparisons.
+Inserting S ... 5 comparisons.
+Inserting H ... 5 comparisons.
+Inserting R ... 6 comparisons.
+Inserting D ... 3 comparisons.
+Inserting L ... 7 comparisons.
+Inserting U ... 4 comparisons.
+Inserting C ... 4 comparisons.
+Inserting M ... 9 comparisons.
+Inserting P ... 7 comparisons.
+Inserting F ... 6 comparisons.
+Inserting Y ... 6 comparisons.
+Inserting W ... 7 comparisons.
+Inserting G ... 8 comparisons.
+Inserting B ... 5 comparisons.
+Inserting V ... 8 comparisons.
+Inserting K ... 8 comparisons.
+Inserting J ... 9 comparisons.
+Inserting X ... 9 comparisons.
+Inserting Z ... 8 comparisons.
+Inserting Q ... 9 comparisons.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Inserting A ... 0 comparisons.
+Inserting B ... 2 comparisons.
+Inserting C ... 4 comparisons.
+Inserting D ... 6 comparisons.
+Inserting E ... 8 comparisons.
+Inserting F ... 10 comparisons.
+Inserting G ... 12 comparisons.
+Inserting H ... 14 comparisons.
+Inserting I ... 16 comparisons.
+Inserting J ... 18 comparisons.
+Inserting K ... 20 comparisons.
+Inserting L ... 22 comparisons.
+Inserting M ... 24 comparisons.
+Inserting N ... 26 comparisons.
+Inserting O ... 28 comparisons.
+Inserting P ... 30 comparisons.
+Inserting Q ... 32 comparisons.
+Inserting R ... 34 comparisons.
+Inserting S ... 36 comparisons.
+Inserting T ... 38 comparisons.
+Inserting U ... 40 comparisons.
+Inserting V ... 42 comparisons.
+Inserting W ... 44 comparisons.
+Inserting X ... 46 comparisons.
+Inserting Y ... 48 comparisons.
+Inserting Z ... 50 comparisons.
+-------------------------------------------------------
